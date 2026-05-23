@@ -1,0 +1,5 @@
+Latest Quantity Sold
+Latest Revenue vs Target
+Latest Profit
+Latest Profit Margin
+Profit by Month
