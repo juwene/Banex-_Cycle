@@ -1,6 +1,7 @@
 🚴 Banex Cycles Sales & Profit Analysis Dashboard
 Project Overview:   
-This project is an interactive Power BI dashboard developed to analyze the sales and profitability performance of Banex Cycles, a global bicycle and accessories retailer.   The dashboard helps business stakeholders monitor revenue, profit, profit margins, product performance, and regional sales contributions while comparing actual performance against business targets.
+This project is an interactive Power BI dashboard developed to analyze the sales and profitability performance of Banex Cycles, a global bicycle and accessories retailer.   
+The dashboard helps business stakeholders monitor revenue, profit, profit margins, product performance, and regional sales contributions while comparing actual performance against business targets.
 
 Business Problem
 
