@@ -3,3 +3,9 @@ Latest Revenue vs Target
 Latest Profit
 Latest Profit Margin
 Profit by Month
+Profit by Year
+Profit by Week Day
+Profit by Month Name and Year
+Revenue By continent vs Target
+Top 7 Product By Revenue
+Top 7 Product Sub.Category By Revenue
