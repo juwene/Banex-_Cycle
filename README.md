@@ -143,10 +143,9 @@ The dashboard enables users to:
 
 **Juwon Adeyemo**
 
-Aspiring Data Analyst | Power BI Developer
+Data Analyst | Power BI Developer
 
-- GitHub: https://github.com/yourusername
-- LinkedIn: https://linkedin.com/in/yourprofile
+- LinkedIn: https://www.linkedin.com/in/juwon-adeyemo-264061178/
 
 ---
 
