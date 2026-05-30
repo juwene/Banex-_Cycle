@@ -1,97 +1,160 @@
-🚴 Banex Cycles Sales & Profit Analysis Dashboard
-Project Overview:   
-This project is an interactive Power BI dashboard developed to analyze the sales and profitability performance of Banex Cycles, a global bicycle and accessories retailer.   
+# 🚴 Banex Cycles Sales & Profit Analysis Dashboard
+
+## Project Overview
+
+This project is an interactive Power BI dashboard developed to analyze the sales and profitability performance of Banex Cycles, a global bicycle and accessories retailer.
+
 The dashboard helps business stakeholders monitor revenue, profit, profit margins, product performance, and regional sales contributions while comparing actual performance against business targets.
 
-Business Problem
+---
+
+## Business Problem
 
 Banex Cycles generates sales across multiple products, categories, and regions. Management requires a centralized reporting solution to:
 
-Monitor revenue and profit performance.
+- Monitor revenue and profit performance.
+- Identify top-performing products and categories.
+- Track sales performance against targets.
+- Understand profitability trends over time.
+- Support data-driven business decisions.
 
-Identify top-performing products and categories.
+---
 
-Track sales performance against targets.
+## Dashboard Pages
 
-Understand profitability trends over time.
-
-Support data-driven business decisions.
-
-Dashboard Pages
-
-Revenue Insights Dashboard
+### Revenue Insights Dashboard
 
 The Revenue Dashboard focuses on overall sales performance and product contribution.
 
-Key Metrics
+#### Key Metrics
 
-Revenue
+- Revenue
+- Profit
+- Quantity Sold
+- Profit Margin
+- Revenue vs Target
 
-Profit
+#### Analysis Included
 
-Quantity Sold
+- Revenue by Continent
+- Top N Products by Revenue
+- Top N Product Sub-Categories
+- Revenue Target Achievement
+- Dynamic Date Filtering
 
-Profit Margin
+---
 
-Revenue vs Target
-
-Analysis Included
-
-Revenue by Continent
-
-Top N Products by Revenue
-
-Top N Product Sub-Categories
-
-Revenue Target Achievement
-
-Dynamic Date Filtering
-
-Profit Insights Dashboard
+### Profit Insights Dashboard
 
 The Profit Dashboard focuses on profitability trends and operational performance.
 
-Key Metrics
-Profit
-Profit Margin
-Quantity Sold
-Revenue vs Target
-Analysis Included
-Profit by Month
-Profit by Year
-Profit by Weekday
-Product Profit Analysis
-Monthly Profit Trend Comparison
-Key Insights
+#### Key Metrics
+
+- Profit
+- Profit Margin
+- Quantity Sold
+- Revenue vs Target
+
+#### Analysis Included
+
+- Profit by Month
+- Profit by Year
+- Profit by Weekday
+- Product Profit Analysis
+- Monthly Profit Trend Comparison
+
+---
+
+## Key Insights
 
 The dashboard enables users to:
 
-Identify the highest revenue-generating products.
-Compare regional performance across continents.
-Track profit trends over multiple years.
-Monitor performance against business targets.
-Understand seasonal patterns affecting profitability.
-Evaluate which products contribute most to overall business performance.
-Tools & Technologies
-Power BI
-Power Query
-DAX
-Data Modeling
-Excel Dataset
-Skills Demonstrated
-Data Preparation
-Data Cleaning
-Data Transformation
-Data Modeling
-Power BI Development
-Interactive Dashboards
-KPI Development
-Drill-through Analysis
-Dynamic Filtering
-Parameter-Based Top N Analysis
-DAX
-Revenue Measures
-Profit Measures
-Profit Margin Calculations
-Target Comparison Metrics
-Time Intelligence Functions
+- Identify the highest revenue-generating products.
+- Compare regional performance across continents.
+- Track profit trends over multiple years.
+- Monitor performance against business targets.
+- Understand seasonal patterns affecting profitability.
+- Evaluate which products contribute most to overall business performance.
+
+---
+
+## Tools & Technologies
+
+- Power BI
+- Power Query
+- DAX
+- Data Modeling
+- Excel Dataset
+
+---
+
+## Skills Demonstrated
+
+### Data Preparation
+
+- Data Cleaning
+- Data Transformation
+- Data Modeling
+
+### Power BI Development
+
+- Interactive Dashboards
+- KPI Development
+- Drill-through Analysis
+- Dynamic Filtering
+- Parameter-Based Top N Analysis
+
+### DAX
+
+- Revenue Measures
+- Profit Measures
+- Profit Margin Calculations
+- Target Comparison Metrics
+- Time Intelligence Functions
+
+---
+
+## Dashboard Screenshots
+
+### Revenue Dashboard
+
+![Revenue Dashboard](images/revenue_dashboard.png)
+
+### Profit Dashboard
+
+![Profit Dashboard](images/profit_dashboard.png)
+
+---
+
+## Repository Contents
+
+```text
+├── Dataset
+├── Banex_Cycles_Dashboard.pbix
+├── images
+│   ├── revenue_dashboard.png
+│   └── profit_dashboard.png
+└── README.md
+```
+
+---
+
+## Author
+
+**Juwon Adeyemo**
+
+Aspiring Data Analyst | Power BI Developer
+
+- GitHub: https://github.com/yourusername
+- LinkedIn: https://linkedin.com/in/yourprofile
+
+---
+
+### Project Highlights
+
+✅ Interactive Power BI Dashboard  
+✅ Revenue & Profit Analysis  
+✅ Dynamic Top N Product Analysis  
+✅ Regional Performance Tracking  
+✅ Profitability Trend Analysis  
+✅ Business Intelligence & Data Storytelling
