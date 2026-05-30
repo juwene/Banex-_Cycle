@@ -8,10 +8,15 @@ Business Problem
 Banex Cycles generates sales across multiple products, categories, and regions. Management requires a centralized reporting solution to:
 
 Monitor revenue and profit performance.
+
 Identify top-performing products and categories.
+
 Track sales performance against targets.
+
 Understand profitability trends over time.
+
 Support data-driven business decisions.
+
 Dashboard Pages
 Revenue Insights Dashboard
 
