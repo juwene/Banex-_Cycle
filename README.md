@@ -18,22 +18,35 @@ Understand profitability trends over time.
 Support data-driven business decisions.
 
 Dashboard Pages
+
 Revenue Insights Dashboard
 
 The Revenue Dashboard focuses on overall sales performance and product contribution.
 
 Key Metrics
+
 Revenue
+
 Profit
+
 Quantity Sold
+
 Profit Margin
+
 Revenue vs Target
+
 Analysis Included
+
 Revenue by Continent
+
 Top N Products by Revenue
+
 Top N Product Sub-Categories
+
 Revenue Target Achievement
+
 Dynamic Date Filtering
+
 Profit Insights Dashboard
 
 The Profit Dashboard focuses on profitability trends and operational performance.
